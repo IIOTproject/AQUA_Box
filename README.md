@@ -20,7 +20,9 @@ Flooding is the most common natural disaster occurring 43% of the world's total 
 ![1](https://github.com/IIOTproject/AQUA_Box/blob/master/Reference_pic/1.png)
 
 Around the world, flooding affects 2.3 billion people, which is 56% of the world's population. Highly affected countries includ USA, China, Philippines and India.
+
 ![2](https://github.com/IIOTproject/AQUA_Box/blob/master/Reference_pic/2.png)
+
 A study by Hirabayashi et al. predict that as a warmer climate persists in fewer years from now, Asia's and Africa's flood risk would increase. This not only includes in areas near the sea but as well as inland.
 
 ![3](https://github.com/IIOTproject/AQUA_Box/blob/master/Reference_pic/3.png)
