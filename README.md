@@ -1,6 +1,5 @@
 # AQUA_Box
-Description
-Water flow sensor consists of a plastic valve body, a water rotor, and a hall-effect sensor. When water flows through the rotor, rotor rolls. Its speed changes with different rate of flow. The hall-effect sensor outputs the corresponding pulse signal. This one is suitable to detect flow in water dispenser or coffee machine. We have a comprehensive line of water flow sensors in different diameters. Check them out to find the one that meets your need most.
+  Water flow sensor consists of a plastic valve body, a water rotor, and a hall-effect sensor. When water flows through the rotor, rotor rolls. Its speed changes with different rate of flow. The hall-effect sensor outputs the corresponding pulse signal. This one is suitable to detect flow in water dispenser or coffee machine. We have a comprehensive line of water flow sensors in different diameters. Check them out to find the one that meets your need most.
  
 ## Features
 * Compact, Easy to Install
@@ -25,4 +24,4 @@ Water flow sensor consists of a plastic valve body, a water rotor, and a hall-ef
  [Turbidity sensor SKU: SEN0189 Wiki](https://wiki.dfrobot.com/Turbidity_sensor_SKU__SEN0189)
 
 ## Device Structure
-
+![STRUCTURE](https://github.com/IIOTproject/AQUA_Box/blob/master/part%20description%202.PNG)
