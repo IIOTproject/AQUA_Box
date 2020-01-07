@@ -35,21 +35,21 @@ A study by Hirabayashi et al. predict that as a warmer climate persists in fewer
 ## Conponments
 ![articulture](https://github.com/IIOTproject/AQUA_Box/blob/master/ardiuno_structure/4.png)
 ### SENSORS
-•	TURBIDITY SENSOR: 0-3000NTU 
-•	LEVEL SENSOR : 0-2(LOW, MEDIUM, HIGH) - 15CM
-•	SPEED SENSOR : 0-30L/MIN
-•	RAIN SENSOR: 0-700 (LOW, MEDIUM, HIGH)
+* TURBIDITY SENSOR: 0-3000NTU 
+*	LEVEL SENSOR : 0-2(LOW, MEDIUM, HIGH) - 15CM
+*	SPEED SENSOR : 0-30L/MIN
+*	RAIN SENSOR: 0-700 (LOW, MEDIUM, HIGH)
 ### BOARDS
-•	ARDUINO UNO REV 3
-•	UNASHIELD V2/ V2S
+*	ARDUINO UNO REV 3
+*	UNASHIELD V2/ V2S
 ### OTHER COMPONENTS
-•	POWER BANK WITH SOLAR CELL
-•	WIRES AND CABLES
+*	POWER BANK WITH SOLAR CELL
+*	WIRES AND CABLES
 ### MECHANICAL COMPONENTS
-•	3D PRINTING PLASTIC (PLA)
-•	BOLTS AND SCREWS
-•	SILICON
-•	HEAT SHRINKS
+*	3D PRINTING PLASTIC (PLA)
+*	BOLTS AND SCREWS
+*	SILICON
+*	HEAT SHRINKS
 ### Ardiuno articulture
 ![ardiuno](https://github.com/IIOTproject/AQUA_Box/blob/master/ardiuno_structure/5.png)
 
