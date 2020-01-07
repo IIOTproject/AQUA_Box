@@ -25,3 +25,6 @@
 
 ## Device Structure
 ![STRUCTURE](https://github.com/IIOTproject/AQUA_Box/blob/master/part%20description%202.PNG)
+
+## Installation
+![install]()
